@@ -1,0 +1,17 @@
+{
+
+    "hallucinations_protection": true,
+    "misuse_prevention": true,
+    "privacy_protection": true,
+    "policy_adherence": true,
+    "toxicity_protection": true,
+    "feedback_loops": true,
+    "groundless_controls": true,
+    "response_relevancy": true,
+    "loop_controls": true,
+    "rbac_controls": true,
+    "token_limits": 1000,
+    "long_term_memory": {},
+    "resiliency": true
+
+}
